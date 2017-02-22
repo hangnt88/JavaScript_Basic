@@ -1,4 +1,4 @@
-# hang_js_basic
+# Javascripts Basic 
 
 1. What is this?
 This is my final project for the JS Basic course, try to make a sample "Resume" adding my own information.
@@ -14,8 +14,7 @@ Just run the index.html file then you will see the result of my project.
  - index.html 
  - & resumeBuilder.js 
 
- But among all that "resumeBuilder.js" is the only piece that I created, others are supported files from Udacity that already
- be there at the first place and I didn't modify any of that yet.
+ But among all that "resumeBuilder.js" is the only piece that I created, others are supported files from Udacity that already be there at the first place and I didn't modify any of that yet.
 
 
 
