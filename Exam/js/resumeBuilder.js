@@ -35,8 +35,7 @@ var formattedLocation = HTMLlocation.replace("%data%", bio.contactInfo.location)
 $("#topContacts").append(formattedLocation);
 
 
-var formattedMoblie = HTMLmobile.replace("%data%", bio.contactInfo.mobile); // tại sao cho xuống cuối file lại k chạy :((
-$("#footerContacts").append(formattedMoblie);
+var formattedMoblie = HTMLmobile.replace("%data%", bio.contactInfo.mobile);
 var formattedEmail = HTMLemail.replace("%data%", bio.contactInfo.email);
 $("#footerContacts").append(formattedEmail);
 var formattedGithub = HTMLgithub.replace("%data%", bio.contactInfo.github);
@@ -188,7 +187,7 @@ function displayWork() {
     var formattedEmployer = HTMLworkEmployer.replace("%data%", work.jobs[job].employer);
     var formattedTitle = HTMLworkTitle.replace("%data%", work.jobs[job].title);
     var HTMLformattedEmployerTitle = formattedEmployer + formattedTitle
-    $(".work-entry:last").append(HTMLformattedEmployerTitle); // vẫn k hiểu cái .work-entry:last là j dùng ntn lắm =.=
+    $(".work-entry:last").append(HTMLformattedEmployerTitle); 
 
     var formattedDates = HTMLworkDates.replace("%data%", work.jobs[job].dates);
     $(".work-entry:last").append(formattedDates);
