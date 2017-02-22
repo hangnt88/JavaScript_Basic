@@ -1,4 +1,4 @@
-# Javascripts Basic 
+# JavaScript Basic Course
 
 1. What is this?
 This is my final project for the JS Basic course, try to make a sample "Resume" adding my own information.
