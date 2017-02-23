@@ -18,4 +18,4 @@ Just run the index.html file then you will see the result of my project.
 
  But among all that "resumeBuilder.js" is the only piece that I created myself, others are supported files from Udacity that already be there at the first place that I just barely touched by adding some small code during the lessons of the course.
  
-That is  all, hank you for your attention!
+That is  all, thank you for your attention!
