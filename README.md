@@ -3,6 +3,7 @@
 1. What is this?
 This is my final project for the JS Basic course, try to make a sample "Resume" adding my own information. 
 Basically it should looks like this http://i.imgur.com/pWU1Xbl.png -  follow the course requirements
+(for more details please take a look at the original repo of this course: https://github.com/udacity/frontend-nanodegree-resume)
 
 2. How to use?
 Just run the index.html file then you will see the result of my project.
