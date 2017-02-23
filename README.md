@@ -1,7 +1,8 @@
 # JavaScript Basic Course
 
 1. What is this?
-This is my final project for the JS Basic course, try to make a sample "Resume" adding my own information.
+This is my final project for the JS Basic course, try to make a sample "Resume" adding my own information. 
+Basically it should looks like this http://i.imgur.com/pWU1Xbl.png -  follow the course requirements
 
 2. How to use?
 Just run the index.html file then you will see the result of my project.
@@ -14,9 +15,6 @@ Just run the index.html file then you will see the result of my project.
  - index.html 
  - & resumeBuilder.js 
 
- But among all that "resumeBuilder.js" is the only piece that I created, others are supported files from Udacity that already be there at the first place and I didn't modify any of that yet.
-
-
-
-Thank you for your attention!
-
+ But among all that "resumeBuilder.js" is the only piece that I created myself, others are supported files from Udacity that already be there at the first place that I just barely touched by adding some small code during the lessons of the course.
+ 
+That is  all, hank you for your attention!
